@@ -1,8 +1,9 @@
 
 #include<iostream>
-using namespace std;
 #include<fstream>
 #include<stdio.h>
+#include<cstring>
+using namespace std;
 class hostel
 {
     int room_no;
